@@ -1,8 +1,8 @@
-# IKI Ads
+# Iki Ads
 [![npm version](https://img.shields.io/npm/v/iki-ad-engine.svg)](https://www.npmjs.com/package/iki-ad-engine)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![documentation](assets/doc.png)
 
 ### *Turn your CLI tools into a dynamic communication channel.*
 

@@ -12,10 +12,10 @@ Bosan dengan aplikasi CLI yang statis? **IKI Ad Engine** memungkinkan kamu menyi
 
 ## Kenapa Kamu Butuh IKI Ads?
 
-* ** Real-Time Updates:** Ganti pesan atau promosi kapan saja melalui dashboard Cloudflare. User akan melihat update-nya saat itu juga.
-* ** Zero Latency Impact:** Berjalan di *Edge Network* Cloudflare. Iklan diambil secara asinkron, sehingga tidak akan memperlambat logika utama aplikasimu.
-* ** Fail-Safe Protection:** Internet user mati? Library ini akan *silent* dan memastikan aplikasi utamamu tetap berjalan tanpa error.
-* ** Terminal-Native UI:** Desain yang cantik dengan border otomatis dan link yang bisa diklik langsung dari terminal.
+* **Real-Time Updates:** Ganti pesan atau promosi kapan saja melalui dashboard Cloudflare. User akan melihat update-nya saat itu juga.
+* **Zero Latency Impact:** Berjalan di *Edge Network* Cloudflare. Iklan diambil secara asinkron, sehingga tidak akan memperlambat logika utama aplikasimu.
+* **Fail-Safe Protection:** Internet user mati? Library ini akan *silent* dan memastikan aplikasi utamamu tetap berjalan tanpa error.
+* **Terminal-Native UI:** Desain yang cantik dengan border otomatis dan link yang bisa diklik langsung dari terminal.
 
 ---
 
